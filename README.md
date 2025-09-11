@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Anthony Melo  
 
-<!--
-**AnthonyDistribution/AnthonyDistribution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Statistician | Data Scientist | Risk Analyst**  
 
-Here are some ideas to get you started:
+📊 Passionate about **stochastic processes, pattern recognition, and uncertainty modeling**.  
+🚀 Building projects on **anomaly detection, quality control, and risk analysis** across domains — from financial markets to business data.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Featured Projects  
+- 📈 **Pattern & Anomaly Detector** → Python model to identify unusual behaviors in time series data.  
+- 🧮 **Monte Carlo Simulation** → Risk and uncertainty scenario modeling using stochastic methods.  
+- 🔍 **Survival Analysis Toolkit** → Applied survival models for clinical and business data.  
+- 📊 **Quality Control Dashboard** → Statistical process monitoring with Python and SQL.  
+
+---
+
+## 🔹 Skills  
+- **Statistics**: Modeling, inference, probability distributions, simulation  
+- **Advanced Methods**: Survival analysis, statistical quality control, time series  
+- **Programming**: Python, SQL, Git  
+- **Applications**: Risk monitoring, trading (Spot & Futures), API-driven data analysis  
+
+---
+
+📫 Find me at:  
+- email: [anthonymelo.csv@gmail.com]
+- LinkedIn: []  
