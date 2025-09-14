@@ -24,5 +24,5 @@
 ---
 
 📫 Find me at:  
-- email: [anthonymelo.csv@gmail.com]
-- LinkedIn: []  
+- email: anthonymelo.csv@gmail.com
+- LinkedIn: linkedin.com/in/anthony-melo-936131254
